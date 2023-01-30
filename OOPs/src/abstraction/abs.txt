@@ -1,0 +1,25 @@
+
+* Abstraction is a process of hiding the implementation details and showing only the functionality to the user.
+* There are two ways to achieve abstraction in java.
+
+1. Abstract class.(0 to 100 %)
+2. Interface (Achieve 100% abstraction)
+
+* Abstract method : -
+
+* Points to remember about abstract method.
+
+1.  Abstract method has nobody.
+2.  It must be ends with a semicolon.
+3.  It must be the abstract class.
+4.  It cannot be the overridden.
+5. Abstract method cannot be declared with final or static
+
+Abstract class
+
+1. Abstract class have abstract and non-abstract method.
+2. Non-abstract class cannot have abstract method.
+3. cannot create object of abstract class but create reference variable
+4. Abstract class cannot be initiated.
+5. If you extend an abstract class you have to use all its abstract methods or you have to declare the class as
+abstract itself.
